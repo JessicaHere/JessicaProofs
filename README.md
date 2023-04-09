@@ -34,7 +34,7 @@ Simple plugin that take proof from staff members and send it to discord server u
 
 # Notes
 
-Make it better than that , clean code and try to solve this problem while the player proof that full screen will be like this
+i'll to make it better than that , clean code and try to solve this problem while the player proof that full screen will be like this
 
 
 ![image](https://user-images.githubusercontent.com/130261339/230755041-b388c609-5b5b-49d7-91e7-4fd08f82417f.png)
