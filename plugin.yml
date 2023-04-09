@@ -1,0 +1,14 @@
+name: JessicaProofs
+version: 0.5
+main: me.jessicahere.jessicaproof.bungeecord.core.Core
+author: JessicaHere
+description: A simple plugin help staff members to take proof (ScreenShot) and send it to discord server using bot
+commands:
+  jpreload:
+    description: reload configuration file command
+    usage: /jpreload
+    permission: jessicaproofs.proof.admin
+  jpproof:
+    description: jessicaproofs.proof command
+    usage: /jpproof
+    permission: proof.use
