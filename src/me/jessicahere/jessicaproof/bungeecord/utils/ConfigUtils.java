@@ -34,7 +34,7 @@ public class ConfigUtils {
 			try (InputStream in = getResourceAsStream("config.yml")) {
 				Files.copy(in, configFile.toPath());
 				getConfig().set("Bot-Token", (String) "YourBotToken");
-				getConfig().set("delay", (int) 1);
+				getConfig().set("delay", (int) 15);
 				getConfig().set("Guild-ID", (String) "YourServerID");
 				getConfig().set("TextChannel-ID", (String) "YourChannelID");
 			} catch (IOException e) {
